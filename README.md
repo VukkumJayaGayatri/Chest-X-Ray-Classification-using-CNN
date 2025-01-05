@@ -28,6 +28,7 @@ This project focuses on building a Convolutional Neural Network (CNN) model to c
 
 ## Dataset
 The dataset contains chest X-ray images labeled with medical conditions. Ensure the dataset is placed in the appropriate directory before running the code.
+Dataset src link: https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images/data
 
 ## Results
 - **Accuracy**: 98.5%
