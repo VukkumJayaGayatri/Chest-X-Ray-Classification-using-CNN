@@ -39,9 +39,3 @@ Dataset src link: https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray
 - Expanding the dataset for broader coverage of medical conditions.
 - Integrating additional image preprocessing techniques for enhanced performance.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Acknowledgements
-- [Kaggle Chest X-Ray Dataset](https://www.kaggle.com/)
-- TensorFlow and PyTorch documentation
