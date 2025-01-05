@@ -26,20 +26,6 @@ This project focuses on building a Convolutional Neural Network (CNN) model to c
 - TensorFlow or PyTorch (depending on the framework used in the code)
 - Libraries: NumPy, Matplotlib, Pandas, OpenCV, Scikit-learn
 
-## Usage
-1. Clone the repository:
-    ```bash
-    git clone <repository-url>
-    ```
-2. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. Run the Jupyter Notebook or script:
-    ```bash
-    jupyter notebook chest-x-ray-cnn.ipynb
-    ```
-
 ## Dataset
 The dataset contains chest X-ray images labeled with medical conditions. Ensure the dataset is placed in the appropriate directory before running the code.
 
